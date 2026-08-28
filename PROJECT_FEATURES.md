@@ -14,4 +14,7 @@ I want to assign roles and permissions so that users only access allowed feature
 ## T-14: Update criminal records
 As a Police Officer, I want to update criminal records so that information stays up to date.
 **Status: Backlog**
+## T6: Search criminal records
+This task involves implementing a criminal record search feature.
+**Status: Implemented**
 
