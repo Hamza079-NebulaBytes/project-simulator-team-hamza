@@ -11,3 +11,7 @@ I want to log into the system so that I can manage the platform.
 I want to assign roles and permissions so that users only access allowed features
 **Status: In progress**
 
+## T-14: Update criminal records
+As a Police Officer, I want to update criminal records so that information stays up to date.
+**Status: Backlog**
+
